@@ -1,3 +1,3 @@
 We implemented the MLA tool as a package named "MultiLayerAlignment" in the ProM framework.
 You can find the source code in this link: https://svn.win.tue.nl/repos/prom/Packages/MultiLayerAlignment
-It is available for end-user in ProM 6 (nightly builds)- Link:https://www.promtools.org/
+It is available for end-user in ProM 6.11- Link:https://svn.win.tue.nl/trac/prom/wiki/ProM611
