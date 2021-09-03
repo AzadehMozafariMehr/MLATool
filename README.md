@@ -16,4 +16,6 @@ graphical outputs make interpreting the conformance result simple.
 - 3. Install "LpSolve" and "MultiLayerAlignment" packages from the Not installed tab.
 - 4. Run PROM workspace by double click on "ProM611.exe".
 - 5. Follow the steps in the MLA manual document to run the MultiLayerAlignment plugin and performing multi-perspective conformance checking.
+- The detail information about the inputs/outputs and the tool tutorial are provided in MLA Manual.pdf.
 - you can find a sample of each input in the "inputs sample" folder.
+- The screen-cast of the tool is available under the name MLA Screencasts.zip.
